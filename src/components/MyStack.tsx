@@ -17,5 +17,5 @@ export function MyStack () {
             <img className="icons" src="/006-bootstrap.png" />
         </Container>
         </>
-    )
+    );
 }

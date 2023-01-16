@@ -7,7 +7,7 @@ type ProjectItemProps = {
     link: string,
     technologies: string,
     summary: string,
-}
+};
 
 export function ProjectItem({id, name, imgUrl, link,  technologies, summary} : ProjectItemProps){
     return(

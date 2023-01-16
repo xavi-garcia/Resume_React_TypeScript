@@ -6,7 +6,7 @@ type ExperienceProps = {
     company: string,
     time: string,
     description: string,
-}
+};
 
 export function ExperienceItem({id, title, company, time, description} : ExperienceProps){
     return(

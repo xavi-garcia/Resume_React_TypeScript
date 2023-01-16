@@ -5,7 +5,7 @@ type EducationItemProps = {
     institution: string,
     degree: string,
     years: string,
-}
+};
 
 export function EducationItem({id, institution, degree, years} : EducationItemProps){
     return(

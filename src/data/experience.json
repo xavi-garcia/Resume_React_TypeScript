@@ -1,0 +1,16 @@
+[
+    {
+        "id":10,
+        "title":"JavaScript and React Tutor",
+        "company": "CoderHouse",
+        "time": "Nov 2021 - Now",
+        "description":"I assist the teacher of the course by helping answer questions in class and providing examples to further understand the concepts being dealt with. I correct students’ projects throughout the course and provide them with feedback to help them debug their code and write clean syntax. I teach extra lessons to practice topics discussed in class or to help students with their projects."
+    },
+    {
+        "id":11,
+        "title":"English Teacher",
+        "company": "Olapic, In, Roggio, Ecogas",
+        "time": "May 2013 - Now",
+        "description":"I have taught English ever since I graduated in renowned companies such as Olapic Inc, Roggio and Ecogas. My excellent command of the language, my patience and love for team work have allowed me to build my own English company with clients from all over the world."
+    }
+]

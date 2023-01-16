@@ -1,0 +1,20 @@
+[
+    {
+        "id":20,
+        "institution":"Facultad de Lenguas",
+        "degree": "National Public Translator",
+        "years": "2009-2013"
+    },
+    {
+        "id":21,
+        "institution":"CoderHouse",
+        "degree": "Full-Stack Developer",
+        "years": "2021-2022"
+    },
+    {
+        "id":23,
+        "institution":"Instituto Politécnico",
+        "degree": "Web and App Development",
+        "years": "2023-Now"
+    }
+]

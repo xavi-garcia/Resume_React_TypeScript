@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "API RESTful",
-        "imgUrl": "/images/Api.JPG",
+        "imgUrl": "/Api.JPG",
         "link": "https://www.youtube.com/watch?v=YdMEff9TvT4&t=125s",
         "technologies": "Node.js, Express.js, MongoDB, Handlebars, Passport, JWT.",
         "summary": "An online store where different features can be accessed depending on your role, you can either register as an administrator or as a regular client."
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Haku's World",
-        "imgUrl": "/images/HakusWorld.JPG",
+        "imgUrl": "/HakusWorld.JPG",
         "link": "https://dreamy-choux-a4359f.netlify.app/",
         "technologies": "Vanilla JavaScript, HTML5, CSS3, Bootstrap and Toastify.",
         "summary": "An e-commerce that allows you to access different products, filter by different categories and carry out a purchase."
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "What To Do?",
-        "imgUrl": "/images/Todo.JPG",
+        "imgUrl": "/Todo.JPG",
         "link": "https://todojavi.netlify.app/",
         "technologies": "React.js, CSS3. ",
         "summary": "A to do application to add, edit and delete information. useState and  useEffect were used to leverage Reacts function components potential."

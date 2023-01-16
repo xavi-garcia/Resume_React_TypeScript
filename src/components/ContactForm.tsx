@@ -51,7 +51,7 @@ export function ContactForm() {
         <Form.Label>Comment</Form.Label>
         <Form.Control id="comment" type="text" value={comment} onChange={handleChange} placeholder="Write Comment" />
       </Form.Group>
-      <Button variant="primary" type="submit">
+      <Button variant="dark" type="submit">
         Submit
       </Button>
     </Form>
